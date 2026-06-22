@@ -21,14 +21,6 @@ This dashboard addresses all five gaps using Excel — no BI tools required.
 
 ## 🗂️ Project Structure
 
-```
-loan-portfolio-dashboard/
-│
-├── Loan_Portfolio_Dashboard_BenardMwinzi.xlsx   # Main dashboard file
-├── build_dashboard.py                           # Python script used to generate the workbook
-└── README.md
-```
-
 The Excel workbook contains **6 colour-coded sheets**:
 
 | Sheet | Description |
