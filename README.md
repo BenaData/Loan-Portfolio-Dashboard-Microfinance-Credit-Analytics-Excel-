@@ -1,0 +1,2 @@
+# Loan-Portfolio-Dashboard-Microfinance-Credit-Analytics-Excel-
+An interactive credit risk dashboard designed to provide a comprehensive view of loan portfolio performance and portfolio quality. The Dashboard enables credit analysts and management teams to monitor key lending metrics, including loan status distribution, outstanding balances by sector, portfolio-at-risk (PAR) aging, and loan officer performance.
